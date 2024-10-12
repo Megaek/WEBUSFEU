@@ -1,4 +1,5 @@
 .personal-info {
+    padding: 12px;
     width: 124px;
     display: flex;
     flex-direction: column;
